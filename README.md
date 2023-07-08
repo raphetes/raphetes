@@ -1,6 +1,7 @@
 # Eae, sou o Raphael Melo! 👋
+<h2>Tenho 16 anos e estou estudando para me tornar um dev frontend</h2>
 <br>
- <h2>Tecnologias que eu uso</h2>
+ <h2>Tecnologias que uso</h2>
 
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
