@@ -1,5 +1,5 @@
 # Eae, sou o Raphael Melo! 👋
-<h2>Tenho 16 anos e estou estudando para me tornar um dev frontend</h2>
+<h2>Tenho 16 anos e estou estudando para me tornar um web designer e dev frontend</h2>
 <br>
  <h2>Tecnologias que uso</h2>
 
